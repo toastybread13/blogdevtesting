@@ -14,17 +14,28 @@
         p {
             background-color: white;
         }
+    p.normal {
+        font-weight: normal;    
+    }
+
+    p.thick {
+        font-weight: bold;
+    }
+
+    div.thick {
+        font-weight: bold;
+    }
         </style>
     </head>
 <body>
 
     <h1>Toast Blog</h1>
-    <div>Septmber 28th, 2025: Blog Maintence Update 1</div>
-    <p> I have set up some basic CSS to add a little bit of color throughout the page. The title bar now has some flair, and the update breaks have some as well.
+    <div class="thick">Septmber 28th, 2025: Blog Maintence Update 1</div>
+    <p class="normal"> I have set up some basic CSS to add a little bit of color throughout the page. The title bar now has some flair, and the update breaks have some as well.
         I do not anticipate much more than this for now. But this is an exciting update! I will keep you posted. 
     </p>
 <br>
-<div></div>    
+<div class="thick">Paragraph break testing and bold formatting testing</div>    
 </body>
 </html>
 
