@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <Head>
+    <style>
+        body { margin: 0; }
+        .header {
+            color:white;
+            background-color: darkslategrey;
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+    </head>
+</html>
+<body>
+    <div class"header">
+        <h1>Toast's Personal Blog</h1>
+    </div>
+    <p>This website will serve as my personal blog for books that I am reading, projects that I am working on, and anything else I find of interest. 
+        Please reach out to me at freedom.unfocused579@passfwd.com if you need or want anything. Live free or die. </p>
+</body>
+</html>
+
